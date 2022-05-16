@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #AEFEFF;
+}
+
+body {
+    height: 1500px;
+}
+
+
+img {
+ width: 200px;
+ height: 200px;
+}
+
+#cloud-1 {
+    display: inline-block;
+    text-align: center;
+    margin: 100px 0px 0px 700px;
+}
+
+
+#cloud-2 {
+    position: absolute;
+    display: inline-block;
+    margin: 150px 0px 0px 100px;
+    
+}
+
+
+#mountain {
+    display:block;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+}
+
+
+.welcome-part {
+    display:block;
+    margin:auto;
+    font-family:'Dancing Script', cursive;
+    font-size: 3rem;
+    
+}
+
+#hello {
+    text-align: center;
+}
+
+#i-am-gulbey {
+    text-align: center;
+}
+
+#a-web-developer {
+    text-align: center;
+}
+
+hr {
+    color: gray;
+    width: 150px;
+    margin: 50px 770px;
+    border-style: dotted;
+    border-bottom-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-width: 10px;
+    margin: auto;
+}
